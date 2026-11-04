@@ -1,0 +1,19 @@
+{
+ "channel": "rendrix-content-dev",
+ "content_version": 2,
+ "published": "2026-11-03",
+ "notes": "First delivery on the Rendrix (dev) content channel: the Update Shakedown scenario. Content-class only - scenarios, data and assets. The game engine itself is never updated this way.",
+ "packs": [
+  {
+   "id": "shakedown-001",
+   "kind": "scenario-pack",
+   "file": "packs/shakedown-001.zip.b64",
+   "encoding": "base64",
+   "sha256": "0d549981191bbd0e348cd521adb928c32ba93c4d7857084e1cbe2aabdfb47b52",
+   "size": 1038,
+   "contains": [
+    "scenarios/update_shakedown.json"
+   ]
+  }
+ ]
+}
